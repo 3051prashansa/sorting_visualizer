@@ -182,19 +182,3 @@ body {
 .slider:disabled::-moz-range-thumb {
     cursor: not-allowed;
 }
-footer {
-    text-align: center;
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #f8f9fa;
-    border-top: 1px solid #e9ecef;
-}
-
-footer p {
-    color: #343a40;
-    font-weight: bold;
-}
-
-footer p span {
-    color: #007bff;
-}
